@@ -3,7 +3,6 @@ id: refine-composition
 title: Refine an existing composition
 category: composition
 description: Iterate on a draft composition given user feedback.
-model: gpt-4o
 variables:
   - name: composition
     type: string

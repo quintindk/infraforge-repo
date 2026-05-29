@@ -3,7 +3,6 @@ id: compose-from-description
 title: Compose from natural-language description
 category: composition
 description: Turn a free-text architecture description into a draft InfraForge composition.
-model: gpt-4o
 variables:
   - name: description
     type: string
